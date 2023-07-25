@@ -1,0 +1,10 @@
+* cl-scribd
+
+Common Lisp Client for Scribd API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jsmpereira/cl-scribd.git   |
+| commit  | 40dc2bf  |
+| systems | cl-scribd |
+|---------+-------------------------------------------|
+
